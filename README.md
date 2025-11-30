@@ -64,3 +64,9 @@ hash_utils.py — Hash and signature logic
 assets/ — UI icons and resources
 
 requirements.txt — Required dependencies
+
+## Screenshots
+
+### Main Interface
+![Main UI](assets/main_ui.png)
+
